@@ -2,7 +2,7 @@
 
 My name is Divan, and I love math and software.
 
-I'm currently coding on-demand logistics software at my job, and mostly coding Blazor in my spare time.
+I'm currently coding on-demand logistics software at my job, and mostly coding with Blazor in my spare time.
 
 <!--
 **DivanVanZyl/DivanVanZyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
