@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Divan, and I love math and software.
+My name is Divan, and I love math and software. I'm really passionate about all computer-related topics!🤖
 
 I'm currently coding on-demand logistics software at my job, and mostly coding with Blazor in my spare time.
 
