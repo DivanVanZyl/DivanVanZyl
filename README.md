@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Divan, and I love math and software. I'm really passionate about all things realted to computers!🤖
+My name is Divan, and I love math and software. I'm passionate about all things realted to computers!🤖
 
-I'm currently coding on-demand logistics software at my job, and mostly coding with Blazor in my spare time.
+I'm currently coding on-demand logistics software at my job.
 
 <!--
 **DivanVanZyl/DivanVanZyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
