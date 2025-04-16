@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Divan, and I love math and software. I'm passionate about all things realted to computers!🤖
+My name is Divan, and I love math and software. I'm particularly interested in Software Engineering and Computer science.
 
-I'm currently coding on-demand logistics software at my job.
+I'm currently coding CAD software at my job, where I get to do fun things in 2D/3D space, and use trigonometry to solve problems.
 
 <!--
 **DivanVanZyl/DivanVanZyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
